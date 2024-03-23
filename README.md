@@ -1,2 +1,1 @@
-# educationalmaterialspython
-Educational Material about Python 🐍
+# Educational Material about Python 🐍
