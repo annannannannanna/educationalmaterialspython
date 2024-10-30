@@ -1,0 +1,7 @@
+UTF-8
+
+The first line of the document
+
+The second line of the document
+
+The third line of the same document
